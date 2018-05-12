@@ -1,0 +1,30 @@
+_repo: The-New-Conspiracy-Against-the-Jesuits-Detected-and-Briefly-Exposedreligion_33836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dallas, Robert Charles
+    alias: Dallas, R. C. (Robert Charles)
+    birthdate: 1754
+    deathdate: 1824
+    gutenberg_agent_id: '36683'
+    url: http://www.gutenberg.org/2009/agents/36683
+description: ''
+gutenberg_issued: '2010-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesuits -- Controversial Literature'
+- !lcsh 'Jesuits -- History'
+- !lcc 'BX'
+title: "The New Conspiracy Against the Jesuits Detected and Briefly Exposed\r\nwith\
+  \ a short account of their institute; and observations on the danger of systems\
+  \ of education independent of religion"
+url: http://www.gutenberg.org/ebooks/33836
